@@ -1,2 +1,2 @@
 # InterviewMaterial
-Sample question for interview from deep learning, image processing, computervision and data science
+Sample coding questions for interview from deep learning, image processing, computer vision, and data science. 
